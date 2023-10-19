@@ -1,2 +1,2 @@
 # dicionario
-Solução da exercícios de Dicionários
+Solução da lista de exercícios sobre Dicionários.
